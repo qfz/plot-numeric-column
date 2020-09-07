@@ -1,0 +1,17 @@
+{
+  "name": "plot-numbers-detector-inspector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asciichart": "^1.5.25",
+    "jest": "^26.4.2",
+    "jsdom": "^16.4.0",
+    "lodash": "^4.17.20"
+  }
+}
