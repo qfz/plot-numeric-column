@@ -45,3 +45,7 @@ npm test
 - The table uses standard HTML table markup, ie `<table> <tbody> <tr> <td>` etc
 - Only the first numeric column is plotted
 - The program is for demonstration purpose only, no extensive error handling is required
+
+## Changes to Spec
+
+- This program plots to an ASCII chart instead of an image file
